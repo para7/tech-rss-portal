@@ -2,7 +2,7 @@
 	export let data;
 </script>
 
-<h1>技術ブログ更新情報</h1>
+<h1>技術ブログ ウォッチ フィード集</h1>
 <div>最終更新: {data.timestamp}</div>
 <ul>
 	{#each data.items as item}
