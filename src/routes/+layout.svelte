@@ -2,15 +2,15 @@
 	import './style.css';
 </script>
 
-<header class="container">
+<!-- <header class="container">
 	<a href="/about">about</a>
 	<a href="/">home</a>
-	<!-- <a href="/site">site</a> -->
-</header>
+</header> -->
 <main class="container">
 	<slot></slot>
 </main>
 
+<!-- 
 <style>
 	header {
 		margin-top: 0.5em;
@@ -23,4 +23,4 @@
 	a {
 		display: inline-block;
 	}
-</style>
+</style> -->
