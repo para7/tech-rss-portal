@@ -1,0 +1,11 @@
+/* 訪問済みリンクの色を変更 */
+a:visited {
+	color: purple; /* ライトモード用の色 */
+}
+
+/* ダークモード用の色を設定 */
+@media (prefers-color-scheme: dark) {
+	a:visited {
+		color: lightblue; /* ダークモード用の色 */
+	}
+}
