@@ -1,38 +1,28 @@
-# sv
+# rss-portal
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+Para7 の普段見ている技術ブログをまとめたRSS リーダーです。
 
-## Creating a project
+<https://para7.github.io/tech-rss-portal/>
 
-If you're seeing this, you've probably already done this step. Congrats!
+## 特徴
 
-```bash
-# create a new project in the current directory
-npx sv create
+- SSG (JAM Stack) 構成
+- JS すら不使用のため、ページが超軽量 (50KBぐらい)
 
-# create a new project in my-app
-npx sv create my-app
-```
+## 対象サイトについて
 
-## Developing
+src/lib/feedTargets.ts にフィード URL 一覧があります。
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+このプロジェクトは個人的なウォッチが中心ですので、サイトのプルリクエストは基本的に受け付けません。
 
-```bash
-npm run dev
+このプロジェクトをフォークして対象 URL を変更し、デプロイすればお好きなサイトの収集用として使えます。
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+## github actions の利用について
 
-## Building
+2024年現在の規約では、負荷の少ないアクションであれば個人的用途に使っても問題ないと記載されています。
 
-To create a production version of your app:
+このプロジェクトのビルドは1日に1回、40秒程度とかなり軽量です。
 
-```bash
-npm run build
-```
+https://docs.github.com/ja/site-policy/github-terms/github-terms-for-additional-products-and-features#actions
 
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+> 当社のサーバーに負担をかけるアクティビティで、その負担がユーザーに提供される利益に見合わない場合 (たとえば、Actions をコンテンツ配信ネットワークまたはサーバーレス アプリケーションの一部として使用しないでください。ただし、利益の小さい Action でも負荷が小さければ問題ありません)、
