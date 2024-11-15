@@ -1,3 +1,5 @@
+[![build and deploy](https://github.com/para7/tech-rss-portal/actions/workflows/static.yml/badge.svg?branch=main)](https://github.com/para7/tech-rss-portal/actions/workflows/static.yml)
+
 # rss-portal
 
 Para7 の普段見ている技術ブログをまとめたRSS リーダーです。
