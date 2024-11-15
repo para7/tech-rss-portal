@@ -1,11 +1,13 @@
 # Simple workflow for deploying static content to GitHub Pages
-name: Deploy static content to Pages
+name: build and deploy
 
 on:
-  pull_request:
+  schedule:
+    - cron: '22 21 * * *'
   # Runs on pushes targeting the default branch
   push:
     branches: ['main']
+  pull_request:
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -19,7 +21,7 @@ permissions:
 # Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
 # However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
 concurrency:
-  group: 'pages'
+  group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: false
 
 jobs:
@@ -43,6 +45,10 @@ jobs:
           cache: 'pnpm'
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
+      - name: lint
+        run: pnpm lint
+      - name: check
+        run: pnpm check
       - name: build page
         run: pnpm build
       - uses: actions/upload-pages-artifact@v1
@@ -51,6 +57,7 @@ jobs:
 
   deploy:
     needs: build
+    if: github.event_name != 'pull_request'
     permissions:
       pages: write
       id-token: write
