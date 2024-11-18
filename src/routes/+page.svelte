@@ -1,20 +1,22 @@
 <script>
+	import { FormatDateJP, FormatDateYMH } from '$lib/intl';
+
 	export let data;
 </script>
 
 <h1>技術ブログ ウォッチ フィード集</h1>
-<div>最終更新: {data.timestamp}</div>
+<div>最終更新: {FormatDateJP(data.timestamp)}</div>
 <ul>
 	{#each data.items as item}
 		<li class="panel">
 			<div class="title">
 				<h2>{item.blogTitle}</h2>
-				<div>{item.timestamp.toISOString().slice(0, 10)}</div>
+				<div>{FormatDateYMH(item.timestamp)}</div>
 			</div>
 			<a href={item.link} class="link" target="_blank">
 				{item.title}
 			</a>
-			<p class="snippet">{item.contentSnippet}</p>
+			<p class="snippet">{item.contentSnippet?.slice(0, 140)}</p>
 		</li>
 	{/each}
 </ul>
