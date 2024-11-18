@@ -1,4 +1,7 @@
-const shortFormatter = new Intl.DateTimeFormat('ja');
+const shortFormatter = new Intl.DateTimeFormat('ja', {
+	timeZone: 'Japan'
+});
+
 const longFormatter = new Intl.DateTimeFormat('ja', {
 	dateStyle: 'medium',
 	timeStyle: 'long',
