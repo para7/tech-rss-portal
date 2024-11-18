@@ -52,12 +52,14 @@ jobs:
       - name: build page
         run: pnpm build
       - uses: actions/upload-pages-artifact@v1
+        if: ${{ github.ref == 'refs/heads/main' || github.event_name == 'schedule' }}
         with:
           path: build
 
   deploy:
     needs: build
-    if: github.event_name != 'pull_request'
+    # env参照できない https://github.com/actions/runner/issues/1189
+    if: ${{ github.ref == 'refs/heads/main' || github.event_name == 'schedule' }}
     permissions:
       pages: write
       id-token: write
