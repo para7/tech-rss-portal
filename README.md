@@ -1,4 +1,4 @@
-[![build and deploy](https://github.com/para7/tech-rss-portal/actions/workflows/static.yml/badge.svg?branch=main)](https://github.com/para7/tech-rss-portal/actions/workflows/static.yml)
+[![build and deploy](https://github.com/para7/tech-rss-portal/actions/workflows/deploy.yml/badge.svg)](https://github.com/para7/tech-rss-portal/actions/workflows/deploy.yml)
 
 # rss-portal
 
