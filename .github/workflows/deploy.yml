@@ -47,10 +47,10 @@ jobs:
         run: pnpm install --frozen-lockfile
       - name: build page
         run: pnpm build
-      - uses: actions/upload-pages-artifact@v1
-        if: ${{ github.ref == 'refs/heads/main' || github.event_name == 'schedule' }}
+      - uses: actions/upload-pages-artifact@v3
+        # if: ${{ github.ref == 'refs/heads/main' || github.ref == 'refs/heads/deploy-test' || github.event_name == 'schedule' }}
         with:
-          path: build
+          path: build/
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v4
