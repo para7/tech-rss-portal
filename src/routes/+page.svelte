@@ -3,10 +3,10 @@
 </script>
 
 <h1>技術ブログ ウォッチ フィード集</h1>
-<div>最終更新: {data.timestamp}</div>
+<div>更新日時: {data.timestamp}</div>
 <ul>
 	{#each data.items as item}
-		<li class="panel">
+		<div class="panel">
 			<div class="title">
 				<h2>{item.blogTitle}</h2>
 				<div>{item.timestamp.toISOString().slice(0, 10)}</div>
@@ -15,7 +15,7 @@
 				{item.title}
 			</a>
 			<p class="snippet">{item.contentSnippet}</p>
-		</li>
+		</div>
 	{/each}
 </ul>
 
