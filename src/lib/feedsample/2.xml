@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Publickey</title>
+    <link rel="alternate" type="text/html" href="https://www.publickey1.jp/" />
+    <link rel="self" type="application/atom+xml" href="https://www.publickey1.jp/atom.xml" />
+    <id>tag:www.publickey1.jp,2011-12-29://2</id>
+    <updated>2025-04-22T14:23:54Z</updated>
+    
+    <generator uri="http://www.sixapart.com/movabletype/">Movable Type Pro</generator>
+
+<entry>
+    <title>AWS、通常のAmazon S3より最大10倍高速な「Amazon S3 Express One Zone」の価格を最大で85％引き下げ</title>
+    <link rel="alternate" type="text/html" href="https://www.publickey1.jp/blog/25/awsamazon_s310amazon_s3_express_one_zone85.html" />
+    <id>tag:www.publickey1.jp,2025://2.8181</id>
+
+    <published>2025-04-22T15:08:23Z</published>
+    <updated>2025-04-22T14:23:54Z</updated>
+
+    <summary>Amazon Web Servicesは、通常のAmazon S3よりも最大10倍高速なオブジェクトストレージ「Amazon S3 Express One Zone」の利用価格を、最大で85％引き下げると発表しました。 「Amazon S3...</summary>
+    <author>
+        <name>jniino</name>
+        
+    </author>
+    
+        <category term="AWS" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="クラウド" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="ストレージ" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    
+    <content type="html" xml:lang="ja" xml:base="https://www.publickey1.jp/">
+
+Amazon Web Servicesは、通常のAmazon S3よりも最大10倍高速なオブジェクトストレージ「Amazon S3 Express One Zone」の利用価格を、最大で85％引き下げると発表しました。 「Amazon S3 Express One Zone」は、単一のアベイラビリティゾーン内にデータを保存するオブジェクトストレージサービスとして、1桁ミリ秒のレイテンシで毎秒数十万のリクエストを処理可能な高速性が特徴です。特に小さなオブジェクトはAmazon ……
+
+    </content>
+</entry>
+
+<entry>
+    <title>システム開発企業が利用中のAIツール、ChatGPTが最多、GitHub Copilotが続く。課題はユーザーの要件定義が決まらないこと。インフラジスティックスジャパン</title>
+    <link rel="alternate" type="text/html" href="https://www.publickey1.jp/blog/25/aichatgptgithub_copilot.html" />
+    <id>tag:www.publickey1.jp,2025://2.8180</id>
+
+    <published>2025-04-22T14:00:02Z</published>
+    <updated>2025-04-21T14:04:21Z</updated>
+
+    <summary>アプリケーション開発支援ツールを開発販売するインフラジスティックス・ジャパンは、本国内の情報システム開発会社を対象にした「開発支援AIツール」の利用ランキングと動向を発表しました。 調査時期は2025年3月、有効回答件数は200。 発表によ...</summary>
+    <author>
+        <name>jniino</name>
+        
+    </author>
+    
+        <category term="機械学習・AI" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="開発ツール" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    
+    <content type="html" xml:lang="ja" xml:base="https://www.publickey1.jp/">
+
+アプリケーション開発支援ツールを開発販売するインフラジスティックス・ジャパンは、本国内の情報システム開発会社を対象にした「開発支援AIツール」の利用ランキングと動向を発表しました。 調査時期は2025年3月、有効回答件数は200。 発表によると、利用中の開発支援AIツールのランキングは1位がChatGPT、2位がGitHub Copilot、3位がMicrosoft Copilotとなりました。 このランキングには、汎用的なツール（ChatGPTやMicrosoft Copi……
+
+    </content>
+</entry>
+
+<entry>
+    <title>JetBrains、AIコーディングエージェント「Junie」を一般公開</title>
+    <link rel="alternate" type="text/html" href="https://www.publickey1.jp/blog/25/jetbrainsaijunie_1.html" />
+    <id>tag:www.publickey1.jp,2025://2.8179</id>
+
+    <published>2025-04-20T15:14:37Z</published>
+    <updated>2025-04-20T14:20:53Z</updated>
+
+    <summary>JetBrainsは、今までアーリーアクセス版として提供していたAIコーディングエージェント「Junie」を一般公開し、同社が提供するIDEの全ユーザーが利用可能になったことを発表しました。 JetBrainsは、コードの補完やプロンプトに...</summary>
+    <author>
+        <name>jniino</name>
+        
+    </author>
+    
+        <category term="機械学習・AI" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="開発ツール" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    <category term="jetbrains" label="JetBrains" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="ja" xml:base="https://www.publickey1.jp/">
+
+JetBrainsは、今までアーリーアクセス版として提供していたAIコーディングエージェント「Junie」を一般公開し、同社が提供するIDEの全ユーザーが利用可能になったことを発表しました。 JetBrainsは、コードの補完やプロンプトによるコード生成などを行うコーディングアシスタントの「JetBrains AI Assistant」と、自律的にコードの生成や修正、テスト作成などを行うコーディングエージェントの「Junie」の2つを、主に同社のIDEと統合されたAI機能とし……
+
+    </content>
+</entry>
+
+<entry>
+    <title>Microsoft Azure、西日本リージョンで可用性ゾーンを提供開始</title>
+    <link rel="alternate" type="text/html" href="https://www.publickey1.jp/blog/25/micorosoft_azure.html" />
+    <id>tag:www.publickey1.jp,2025://2.8178</id>
+
+    <published>2025-04-20T15:08:24Z</published>
+    <updated>2025-04-21T09:24:40Z</updated>
+
+    <summary>マイクロソフトは、同社が提供しているクラウドサービスのMicrosoft Azureにおいて西日本リージョンでの可用性ゾーン提供開始を発表しました。 これにより西日本リージョン上で稼働するアプリケーションの可用性を、これまでよりも高めること...</summary>
+    <author>
+        <name>jniino</name>
+        
+    </author>
+    
+        <category term="Microsoft Azure" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="クラウド" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    <category term="microsoft" label="Microsoft" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="ja" xml:base="https://www.publickey1.jp/">
+
+マイクロソフトは、同社が提供しているクラウドサービスのMicrosoft Azureにおいて西日本リージョンでの可用性ゾーン提供開始を発表しました。 これにより西日本リージョン上で稼働するアプリケーションの可用性を、これまでよりも高めることが可能になります。 可用性ゾーンのサポートにより高可用性を実現 Microsoft Azureは、世界中に存在する「リージョン」で構成されています。日本には東日本リージョンと西日本リージョンの2つのリージョンが存在します。 そしてリージョン……
+
+    </content>
+</entry>
+
+<entry>
+    <title>CVE Foundationが発足。脆弱性に固有の番号を付与するCVEプログラムの長期的な安定性、独立性を確保</title>
+    <link rel="alternate" type="text/html" href="https://www.publickey1.jp/blog/25/cve_foundationcve.html" />
+    <id>tag:www.publickey1.jp,2025://2.8177</id>
+
+    <published>2025-04-16T15:38:33Z</published>
+    <updated>2025-04-17T00:28:34Z</updated>
+
+    <summary>ソフトウェアの脆弱性に対して固有の番号を付与する「CVE」（Common Vulnerabilities and Exposures）プログラムを実行するための新たな非営利団体「CVE Foundation」の発足が発表されました。 CVE...</summary>
+    <author>
+        <name>jniino</name>
+        
+    </author>
+    
+        <category term="セキュリティ" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    
+    <content type="html" xml:lang="ja" xml:base="https://www.publickey1.jp/">
+
+ソフトウェアの脆弱性に対して固有の番号を付与する「CVE」（Common Vulnerabilities and Exposures）プログラムを実行するための新たな非営利団体「CVE Foundation」の発足が発表されました。 CVEはソフトウェア脆弱性に番号を付与する ソフトウェアに関する脆弱性の情報は、以前はソフトウェアベンダやセキュリティベンダがそれぞれ独自に名称や識別子を付けていました。この状況はユーザーやシステム開発者にとってセキュリティ対策を行う際の情報整理……
+
+    </content>
+</entry>
+
+<entry>
+    <title>AWS東京リージョンで約1時間続いた障害、原因は主電源と二次電源が遮断されたことが原因。AWSが明らかに</title>
+    <link rel="alternate" type="text/html" href="https://www.publickey1.jp/blog/25/aws1aws.html" />
+    <id>tag:www.publickey1.jp,2025://2.8176</id>
+
+    <published>2025-04-16T15:36:17Z</published>
+    <updated>2025-04-16T15:35:24Z</updated>
+
+    <summary>一昨日（2025年4月15日）、Amazon Web Services（AWS）の東京リージョン（AP-NORTHEAST-1リージョン）のアベイラビリティゾーン（apne1-az4）において日本時間午後4時40分頃から約1時間続いた障害は...</summary>
+    <author>
+        <name>jniino</name>
+        
+    </author>
+    
+        <category term="AWS" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="クラウド" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="クラウド障害" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    
+    <content type="html" xml:lang="ja" xml:base="https://www.publickey1.jp/">
+
+一昨日（2025年4月15日）、Amazon Web Services（AWS）の東京リージョン（AP-NORTHEAST-1リージョン）のアベイラビリティゾーン（apne1-az4）において日本時間午後4時40分頃から約1時間続いた障害は、主電源と二次電源が遮断されたことが原因だとAWSが明らかにしました。 4つのアベイラビリティゾーンの1つで障害発生 AWS東京リージョンは、「アベイラビリティゾーン」と呼ばれる独立した4つのデータセンターを備えています。 各アベイラビリテ……
+
+    </content>
+</entry>
+
+<entry>
+    <title>Cloudflare Workers、フルスタックアプリの構築とホスティングが可能に。新たにNext.jsやAngularなどに対応、MySQLへの接続も</title>
+    <link rel="alternate" type="text/html" href="https://www.publickey1.jp/blog/25/cloudflare_workersnextjsangularpostgresqlmysql.html" />
+    <id>tag:www.publickey1.jp,2025://2.8175</id>
+
+    <published>2025-04-15T15:40:56Z</published>
+    <updated>2025-04-15T13:48:12Z</updated>
+
+    <summary>Cloudflareは、同社が提供するグローバルなコンテンツデリバリーネットワーク（CDN）のエッジにおいてJavaScriptのランタイムを提供する「Cloudflare Workers」の新機能や機能強化を発表しました。 You can...</summary>
+    <author>
+        <name>jniino</name>
+        
+    </author>
+    
+        <category term="JavaScript" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="Web標準" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="クラウド" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="プログラミング言語" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    <category term="cloudflare" label="Cloudflare" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="ja" xml:base="https://www.publickey1.jp/">
+
+Cloudflareは、同社が提供するグローバルなコンテンツデリバリーネットワーク（CDN）のエッジにおいてJavaScriptのランタイムを提供する「Cloudflare Workers」の新機能や機能強化を発表しました。 You can now deploy static sites and full-stack applications on Cloudflare Workers – the primitives are all here. https://t.co/l……
+
+    </content>
+</entry>
+
+<entry>
+    <title>Cloudflare、シークレットを安全に管理できる「Cloudflare Secrets Store」ベータ公開</title>
+    <link rel="alternate" type="text/html" href="https://www.publickey1.jp/blog/25/cloudflarecloudflare_secrets_store.html" />
+    <id>tag:www.publickey1.jp,2025://2.8174</id>
+
+    <published>2025-04-15T15:39:24Z</published>
+    <updated>2025-04-15T13:40:51Z</updated>
+
+    <summary>Cloudflareはトークンやパスワードといった、いわゆるシークレットを安全に保管し管理できる新サービス「Cloudflare Secrets Store」のベータ公開を発表しました。 Securely store, manage, an...</summary>
+    <author>
+        <name>jniino</name>
+        
+    </author>
+    
+        <category term="クラウド" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="セキュリティ" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    <category term="cloudflare" label="Cloudflare" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="ja" xml:base="https://www.publickey1.jp/">
+
+Cloudflareはトークンやパスワードといった、いわゆるシークレットを安全に保管し管理できる新サービス「Cloudflare Secrets Store」のベータ公開を発表しました。 Securely store, manage, and deploy account level secrets to Cloudflare Workers through Cloudflare Secrets Store, now available in beta – with role……
+
+    </content>
+</entry>
+
+<entry>
+    <title>Amazon Q Developerが日本語でのプロンプトやチャットなどに正式対応</title>
+    <link rel="alternate" type="text/html" href="https://www.publickey1.jp/blog/25/amazon_q_developer.html" />
+    <id>tag:www.publickey1.jp,2025://2.8173</id>
+
+    <published>2025-04-14T15:05:21Z</published>
+    <updated>2025-04-14T14:04:17Z</updated>
+
+    <summary>Amazon Web Services（AWS）は、生成AIによりシステム開発を支援する「Amazon Q Developer」がプロンプトやチャットなどの指示や対話、そしてAmazon Q Developerからの回答などにおいて日本語に...</summary>
+    <author>
+        <name>jniino</name>
+        
+    </author>
+    
+        <category term="AWS" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="クラウド" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="機械学習・AI" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="開発ツール" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    
+    <content type="html" xml:lang="ja" xml:base="https://www.publickey1.jp/">
+
+Amazon Web Services（AWS）は、生成AIによりシステム開発を支援する「Amazon Q Developer」がプロンプトやチャットなどの指示や対話、そしてAmazon Q Developerからの回答などにおいて日本語に正式対応したことを発表しました。 日本語以外に北京語、フランス語、ドイツ語、イタリア語、スペイン語、韓国語、ヒンディー語、ポルトガル語にも対応しました。 日本語でAmazon Q Developerが利用可能になる場面は、統合開発環境（Vi……
+
+    </content>
+</entry>
+
+<entry>
+    <title>GitHub、Issueを分割し親子関係を設定できる「Sub-Issues」が正式機能に</title>
+    <link rel="alternate" type="text/html" href="https://www.publickey1.jp/blog/25/githubissuesub-issues_1.html" />
+    <id>tag:www.publickey1.jp,2025://2.8172</id>
+
+    <published>2025-04-14T15:00:31Z</published>
+    <updated>2025-04-14T14:04:28Z</updated>
+
+    <summary>GitHubは、これまでパブリックプレビューとなっていた「Sub-Issues」機能を正式版としたことを明らかにしました。 Sub-Issuesは大きなIssueを複数の小さなIssuesに分割し、親子関係を持たせることができる機能です。I...</summary>
+    <author>
+        <name>jniino</name>
+        
+    </author>
+    
+        <category term="開発ツール" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    <category term="github" label="GitHub" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="ja" xml:base="https://www.publickey1.jp/">
+
+GitHubは、これまでパブリックプレビューとなっていた「Sub-Issues」機能を正式版としたことを明らかにしました。 Sub-Issuesは大きなIssueを複数の小さなIssuesに分割し、親子関係を持たせることができる機能です。Issueに関連したタスクの依存関係や進捗管理などが分かりやすくなることが期待されます。 下記は新たに設定された「sub-issue progress」フィールドを利用してプロジェクト内の進捗を可視化したところです。 ……
+
+    </content>
+</entry>
+
+<entry>
+    <title>Google Cloud、AIによるアプリの自動生成ツール「Firebase Studio」公開。プロンプトで作りたいアプリを説明するだけ、無料で利用可能</title>
+    <link rel="alternate" type="text/html" href="https://www.publickey1.jp/blog/25/google_cloudaifirebase_studio.html" />
+    <id>tag:www.publickey1.jp,2025://2.8171</id>
+
+    <published>2025-04-14T13:44:57Z</published>
+    <updated>2025-04-13T14:01:34Z</updated>
+
+    <summary>Google Cloudは、自然言語で作りたいアプリケーションの内容を説明すると生成AIが自動的にフルスタックのWebアプリケーションを生成してくれる開発ツール「Firebase Studio」を公開しました。 Firebase Studi...</summary>
+    <author>
+        <name>jniino</name>
+        
+    </author>
+    
+        <category term="Google Cloud" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="JavaScript" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="クラウド" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="プログラミング言語" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="機械学習・AI" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="開発ツール" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    
+    <content type="html" xml:lang="ja" xml:base="https://www.publickey1.jp/">
+
+Google Cloudは、自然言語で作りたいアプリケーションの内容を説明すると生成AIが自動的にフルスタックのWebアプリケーションを生成してくれる開発ツール「Firebase Studio」を公開しました。 Firebase StudioはWebブラウザから利用できる開発ツールです。 その中味は、Visual Studio CodeをベースとしてGoogleが開発しているWebIDEの「Project IDX」、アプリケーションのバックエンドサービスを提供する「Fireb……
+
+    </content>
+</entry>
+
+<entry>
+    <title>［速報］Google Cloudが「Agent Development Kit」をオープンソースで公開へ。100行以下のコードでMCPやガードレールを備えたエージェントを開発可能</title>
+    <link rel="alternate" type="text/html" href="https://www.publickey1.jp/blog/25/google_cloudagent_development_kit100mcp.html" />
+    <id>tag:www.publickey1.jp,2025://2.8170</id>
+
+    <published>2025-04-10T12:01:58Z</published>
+    <updated>2025-04-13T13:53:47Z</updated>
+
+    <summary>Google Cloudは、日本時間で今日（2025年4月10日）未明に開幕した「Google Cloud Next 2025」において、AIエージェントの開発を容易にするフレームワーク「Agent Development Kit」をオープ...</summary>
+    <author>
+        <name>jniino</name>
+        
+    </author>
+    
+        <category term="Google Cloud" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="クラウド" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="機械学習・AI" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="開発ツール" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    
+    <content type="html" xml:lang="ja" xml:base="https://www.publickey1.jp/">
+
+Google Cloudは、日本時間で今日（2025年4月10日）未明に開幕した「Google Cloud Next 2025」において、AIエージェントの開発を容易にするフレームワーク「Agent Development Kit」をオープンソースとして公開することを発表しました。 Google Cloudは、Agent Development Kitは、エージェントの動作を正確に制御しながら100 行未満の直感的なコードでAIエージェントを構築できると説明しています。 使用……
+
+    </content>
+</entry>
+
+<entry>
+    <title>［速報］Google Cloudが複数のAIエージェントを連携させる「Agent2Agentプロトコル」を発表。50社以上がサポートを表明</title>
+    <link rel="alternate" type="text/html" href="https://www.publickey1.jp/blog/25/google_cloudaiagent2agent50.html" />
+    <id>tag:www.publickey1.jp,2025://2.8169</id>
+
+    <published>2025-04-10T11:57:20Z</published>
+    <updated>2025-04-13T13:54:04Z</updated>
+
+    <summary>Google Cloudは、日本時間で今日（2025年4月10日）未明に開幕したイベント「Google Cloud Next 2025」において、複数のAIエージェントを連携させたマルチエージェントシステムを実現する「Agent2Agent...</summary>
+    <author>
+        <name>jniino</name>
+        
+    </author>
+    
+        <category term="Google Cloud" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="クラウド" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="業務アプリケーション" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="機械学習・AI" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    
+    <content type="html" xml:lang="ja" xml:base="https://www.publickey1.jp/">
+
+Google Cloudは、日本時間で今日（2025年4月10日）未明に開幕したイベント「Google Cloud Next 2025」において、複数のAIエージェントを連携させたマルチエージェントシステムを実現する「Agent2Agentプロトコル」（A2A）を発表しました。 Agent2Agentプロトコルを用いることで、異なるベンダーやフレームワークによって構築されたエージェント同士がセキュリティを保ちつつコミュニケーションや情報交換を行って連携できるようになります。こ……
+
+    </content>
+</entry>
+
+<entry>
+    <title>［速報］Google Cloud、第7世代となるAI処理向けTPU 「Ironwood」発表。推論に特化し、前世代から性能を最大10倍に</title>
+    <link rel="alternate" type="text/html" href="https://www.publickey1.jp/blog/25/google_cloud7aitpu_ironwood10.html" />
+    <id>tag:www.publickey1.jp,2025://2.8168</id>
+
+    <published>2025-04-10T11:55:12Z</published>
+    <updated>2025-04-13T13:54:17Z</updated>
+
+    <summary>Google Cloudは、日本時間で今日（2025年4月10日）未明に開幕した「Google Cloud Next 2025」において、AI処理向けのTPU（Tensor Processing Unit）として第7世代となる「Ironwo...</summary>
+    <author>
+        <name>jniino</name>
+        
+    </author>
+    
+        <category term="Google Cloud" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="クラウド" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="サーバ" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="ハードウェア" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="機械学習・AI" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    
+    <content type="html" xml:lang="ja" xml:base="https://www.publickey1.jp/">
+
+Google Cloudは、日本時間で今日（2025年4月10日）未明に開幕した「Google Cloud Next 2025」において、AI処理向けのTPU（Tensor Processing Unit）として第7世代となる「Ironwood」を発表しました。 Ironwoodは同社初の推論に特化したTPUです。液冷システムにより1Pod当たり最大で9216個のチップが双方向1.2TBの高速なチップ間接続で接続され、1チップあたり192GBの高帯域幅メモリを搭載するなどのス……
+
+    </content>
+</entry>
+
+<entry>
+    <title>Google Cloud、「Cloud SQL for MySQL」のベクトル類似検索が正式リリース</title>
+    <link rel="alternate" type="text/html" href="https://www.publickey1.jp/blog/25/google_cloudcloud_sql_for_mysql.html" />
+    <id>tag:www.publickey1.jp,2025://2.8167</id>
+
+    <published>2025-04-08T14:35:43Z</published>
+    <updated>2025-04-08T14:39:43Z</updated>
+
+    <summary>Google Cloudは、マネージドサービスとしてMySQLを提供している「Cloud SQL for MySQL」で、ベクトル類似検索の機能が正式版になったことを明らかにしました。 これにより生成AIのモデルを利用して生成したベクトルエ...</summary>
+    <author>
+        <name>jniino</name>
+        
+    </author>
+    
+        <category term="Google Cloud" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="MySQL" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="RDB" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="クラウド" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="データベース" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="機械学習・AI" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    <category term="dbaas" label="DBaaS" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="ja" xml:base="https://www.publickey1.jp/">
+
+Google Cloudは、マネージドサービスとしてMySQLを提供している「Cloud SQL for MySQL」で、ベクトル類似検索の機能が正式版になったことを明らかにしました。 これにより生成AIのモデルを利用して生成したベクトルエンベディングを、MySQLデータベースの既存のテーブルに列を追加して登録、ベクトルインデックスを作成することで、k近傍（kNN）と近似最近傍（ANN）の両方の検索が実行できるようになります。 例えば、ある質問の文をベクトル変換してCloud……
+
+    </content>
+</entry>
+
+</feed>

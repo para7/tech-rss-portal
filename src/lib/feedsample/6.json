@@ -1,0 +1,201 @@
+{
+  "?xml": "",
+  "rss": {
+    "channel": {
+      "title": "サイボウズ フロントエンドのフィード",
+      "description": "ZennのPublication「サイボウズ フロントエンド」のRSSフィードです",
+      "link": "https://zenn.dev/p/cybozu_frontend",
+      "image": {
+        "url": "https://storage.googleapis.com/zenn-user-upload/avatar/ec90598e61.jpeg",
+        "title": "サイボウズ フロントエンドのフィード",
+        "link": "https://zenn.dev/p/cybozu_frontend"
+      },
+      "generator": "zenn.dev",
+      "lastBuildDate": "Wed, 23 Apr 2025 15:00:17 GMT",
+      "atom:link": "",
+      "language": "ja",
+      "item": [
+        {
+          "title": "Introducing Zod 4 beta など : Cybozu Frontend Weekly (2025-04-22号)",
+          "description": "こんにちは！サイボウズ株式会社 フロントエンドエキスパートチームの @mugi_uno です。\n\n はじめに\nサイボウズ社内では毎週火曜日に Frontend Weekly と題し「一週間の間にあったフロントエンドニュースを共有する会」を開催しています。\n今回は、2025 年 4 月 22 日の Frontend Weekly で取り上げた記事や話題を紹介します。\n\n 取り上げた記事・話題\n\n あらためて理解する ArrayBuffer - JavaScript でバイナリデータを扱う方法\nhttps://ics.media/entry/250408/\nJavaScript における A...",
+          "link": "https://zenn.dev/cybozu_frontend/articles/frontend_weekly_20250422",
+          "guid": "https://zenn.dev/cybozu_frontend/articles/frontend_weekly_20250422",
+          "pubDate": "Wed, 23 Apr 2025 00:33:07 GMT",
+          "enclosure": "",
+          "dc:creator": "mugi"
+        },
+        {
+          "title": "フロントエンドカンファレンス東京の開催決定など : Cybozu Frontend Weekly (2025-04-15号)",
+          "description": "こんにちは！サイボウズ株式会社 フロントエンドエキスパートチームの @mugi_uno です。\n\n はじめに\nサイボウズ社内では毎週火曜日に Frontend Weekly と題し「一週間の間にあったフロントエンドニュースを共有する会」を開催しています。\n今回は、2025 年 4 月 15 日の Frontend Weekly で取り上げた記事や話題を紹介します。\n\n 取り上げた記事・話題\n\n Intent to ship: Temporal\nhttps://groups.google.com/a/mozilla.org/g/dev-platform/c/RtsRo93ygO4/m/2Y...",
+          "link": "https://zenn.dev/cybozu_frontend/articles/frontend_weekly_20250415",
+          "guid": "https://zenn.dev/cybozu_frontend/articles/frontend_weekly_20250415",
+          "pubDate": "Wed, 16 Apr 2025 04:54:44 GMT",
+          "enclosure": "",
+          "dc:creator": "mugi"
+        },
+        {
+          "title": "Reactの2025年トレンド予測など: Cybozu Frontend Weekly (2025-04-01号)",
+          "description": "こんにちは! サイボウズ株式会社フロントエンドエンジニアの Saji (@sajikix) です。\n\n Trapping misbehaving bots in an AI Labyrinth\nhttps://blog.cloudflare.com/ai-labyrinth/\nCloudflare が、不適切な AI クローラーやボットを混乱させ、リソースを浪費させる新しい対策手法「AI Labyrinth」を発表しました。\nこの機能は、不適切なボット活動を検出すると、AI が生成したリンクページの集合を自動的にデプロイします。カスタムルールを作成する必要はなく、無料プランを含む全ての顧...",
+          "link": "https://zenn.dev/cybozu_frontend/articles/few-2025-04-01",
+          "guid": "https://zenn.dev/cybozu_frontend/articles/few-2025-04-01",
+          "pubDate": "Fri, 04 Apr 2025 07:39:04 GMT",
+          "enclosure": "",
+          "dc:creator": "Saji"
+        },
+        {
+          "title": "Form Control Styling Level 1 など: Cybozu Frontend Weekly (2025-03-25号)",
+          "description": "こんにちは！サイボウズ株式会社フロントエンドエンジニアのsaku (@sakupi01)です。\n\n はじめに\nサイボウズ社内では毎週火曜日にFrontend Weeklyと題し「一週間の間にあったフロントエンドニュースを共有する会」を開催しています。\n今回は、2025/03/25のFrontend Weeklyで取り上げた記事や話題を紹介します。\n\n 取り上げた記事・話題\n\n CSS Form Control Styling Level 1 First Public Working Draft\nhttps://www.w3.org/TR/css-forms-1/\nhttps://list...",
+          "link": "https://zenn.dev/cybozu_frontend/articles/frontend_weekly_20250328",
+          "guid": "https://zenn.dev/cybozu_frontend/articles/frontend_weekly_20250328",
+          "pubDate": "Fri, 28 Mar 2025 03:00:01 GMT",
+          "enclosure": "",
+          "dc:creator": "saku"
+        },
+        {
+          "title": "「CLINEに全部賭けろ」など(2025-03-11号)",
+          "description": "こんにちは！サイボウズ株式会社フロントエンドエンジニアのdaiki（@k1tikurisu）です。\n\n はじめに\nサイボウズ社内では毎週火曜日にFrontend Weeklyと題し「一週間の間にあったフロントエンドニュースを共有する会」を開催しています。\n今回は、2025/03/11のFrontend Weeklyで取り上げた記事や話題を紹介します。\n\n 取り上げた記事・話題\n\n Prisma 6.4.0\nhttps://github.com/prisma/prisma/releases/tag/6.4.0\nPrisma 6.4.0がリリースされました。主な更新内容は次の通りです。\n\nT...",
+          "link": "https://zenn.dev/cybozu_frontend/articles/frontend_weekly_20250311",
+          "guid": "https://zenn.dev/cybozu_frontend/articles/frontend_weekly_20250311",
+          "pubDate": "Fri, 14 Mar 2025 08:31:06 GMT",
+          "enclosure": "",
+          "dc:creator": "daiki / きちくりす"
+        },
+        {
+          "title": "Interop 2025, CSS 新機能の Ship など: Cybozu Frontend Weekly (2025-03-04号)",
+          "description": "こんにちは！サイボウズ株式会社フロントエンドエンジニアのsaku (@sakupi01)です。\n\n はじめに\nサイボウズ社内では毎週火曜日にFrontend Weeklyと題し「一週間の間にあったフロントエンドニュースを共有する会」を開催しています。\n今回は、2025/03/04のFrontend Weeklyで取り上げた記事や話題を紹介します。\n\n 取り上げた記事・話題\n\n Intent to Experiment: Interest Invokers\nhttps://groups.google.com/a/chromium.org/g/blink-dev/c/LLgsMjTzmAY/...",
+          "link": "https://zenn.dev/cybozu_frontend/articles/frontend_weekly_20250304",
+          "guid": "https://zenn.dev/cybozu_frontend/articles/frontend_weekly_20250304",
+          "pubDate": "Wed, 05 Mar 2025 03:00:01 GMT",
+          "enclosure": "",
+          "dc:creator": "saku"
+        },
+        {
+          "title": "State of React 2024 公開など : Cybozu Frontend Weekly (2025-02-25号)",
+          "description": "こんにちは！サイボウズ株式会社 フロントエンドエキスパートチームの @mugi_uno です。\n\n はじめに\nサイボウズ社内では毎週火曜日に Frontend Weekly と題し「一週間の間にあったフロントエンドニュースを共有する会」を開催しています。\n今回は、2025 年 2 月 25 日の Frontend Weekly で取り上げた記事や話題を紹介します。\n\n 取り上げた記事・話題\n\n Deno が提出していた JS 商標取消申立てに対して、Oracle が正式に却下申立てを提出\nOracle が Deno の JavaScript 商標取消申立てに対して却下申立てを提出しました...",
+          "link": "https://zenn.dev/cybozu_frontend/articles/frontend_weekly_20250225",
+          "guid": "https://zenn.dev/cybozu_frontend/articles/frontend_weekly_20250225",
+          "pubDate": "Wed, 26 Feb 2025 05:04:44 GMT",
+          "enclosure": "",
+          "dc:creator": "mugi"
+        },
+        {
+          "title": "TypeScript 5.8 RCの公開など(2025-02-18号)",
+          "description": "こんにちは！サイボウズ株式会社フロントエンドエンジニアのdaiki（@k1tikurisu）です。\n\n はじめに\nサイボウズ社内では毎週火曜日にFrontend Weeklyと題し「一週間の間にあったフロントエンドニュースを共有する会」を開催しています。\n今回は、2025/02/18のFrontend Weeklyで取り上げた記事や話題を紹介します。\n\n 取り上げた記事・話題\n\n So, you want to push a web platform feature?\nhttps://blog.yoav.ws/posts/so_you_want_to_push_a_web_platfor...",
+          "link": "https://zenn.dev/cybozu_frontend/articles/frontend_weekly_20250218",
+          "guid": "https://zenn.dev/cybozu_frontend/articles/frontend_weekly_20250218",
+          "pubDate": "Wed, 19 Feb 2025 02:23:47 GMT",
+          "enclosure": "",
+          "dc:creator": "daiki / きちくりす"
+        },
+        {
+          "title": "React の ViewTransition コンポーネントなど: Cybozu Frontend Weekly (2025-01-21号)",
+          "description": "こんにちは！ サイボウズ株式会社 フロントエンドエンジニア（内定者バイト）の mehm8128 (@mehm8128) です。\n\n はじめに\nサイボウズ社内では毎週火曜日に Frontend Weekly と題し「一週間の間にあったフロントエンドニュースを共有する会」を開催しています。\n今回は、2025/01/21 の Frontend Weekly で取り上げた記事や話題を紹介します。\n\n 取り上げた記事・話題\n\n Oracle has informed us they won’t voluntarily withdraw their trademark on \"JavaScript\"...",
+          "link": "https://zenn.dev/cybozu_frontend/articles/frontend_weekly_20250121",
+          "guid": "https://zenn.dev/cybozu_frontend/articles/frontend_weekly_20250121",
+          "pubDate": "Wed, 22 Jan 2025 03:23:46 GMT",
+          "enclosure": "",
+          "dc:creator": "mehm8128"
+        },
+        {
+          "title": "WinterCG の WinterTC への移行など : Cybozu Frontend Weekly (2025-1-14号)",
+          "description": "こんにちは！サイボウズ株式会社 フロントエンドエキスパートチームの @mugi_uno です。\n\n はじめに\nサイボウズ社内では毎週火曜日に Frontend Weekly と題し「一週間の間にあったフロントエンドニュースを共有する会」を開催しています。\n今回は、2025 年 1 月 14 日 の Frontend Weekly で取り上げた記事や話題を紹介します。\n\n 取り上げた記事・話題\n\n Blog: DoubleClickjacking: A New Era of UI Redressing\nhttps://www.paulosyibelo.com/2024/12/doublec...",
+          "link": "https://zenn.dev/cybozu_frontend/articles/frontend_weekly_20250114",
+          "guid": "https://zenn.dev/cybozu_frontend/articles/frontend_weekly_20250114",
+          "pubDate": "Wed, 15 Jan 2025 00:24:14 GMT",
+          "enclosure": "",
+          "dc:creator": "mugi"
+        },
+        {
+          "title": "State of JavaScript 2024の公開など: Cybozu Frontend Weekly (2025-01-07号)",
+          "description": "こんにちは! サイボウズ株式会社フロントエンドエンジニアの Saji (@sajikix) です。\n\n はじめに\nサイボウズでは毎週火曜日に Frontend Weekly という「一週間にあったフロントエンドニュースを共有する会」を社内で開催しています。\n今回は、2025/01/07 の Frontend Weekly で取り上げた記事や話題を紹介します。\n\n 取り上げた記事・話題\n\n State of JavaScript 2024\nhttps://2024.stateofjs.com/en-US/\nJavaScript エコシステムの調査である State of JavaScrip...",
+          "link": "https://zenn.dev/cybozu_frontend/articles/few-2025-01-07",
+          "guid": "https://zenn.dev/cybozu_frontend/articles/few-2025-01-07",
+          "pubDate": "Wed, 08 Jan 2025 09:29:15 GMT",
+          "enclosure": "",
+          "dc:creator": "Saji"
+        },
+        {
+          "title": "1人Intl Advent Calendar を完走しました",
+          "description": "こんにちは！サイボウズ株式会社フロントエンドエキスパートチームの@sajikixです。\n\n 1 人 Intl Advent Calendar を書きました\n今年(2024 年)の 12 月 1 日から 25 日まで、「1 人 Intl Advent Calendar」と題して Intl に関わる技術ブログを 25 日連続で執筆しました。\nhttps://adventar.org/calendars/10555\nこの記事ではその振り返りと個人的なおすすめの記事・読み方などを紹介します。\n\n なんで Intl で 1 人 Advent Calendar を書いたの？\nそもそも、Intl につ...",
+          "link": "https://zenn.dev/cybozu_frontend/articles/intl-advent-calendar-24-recap",
+          "guid": "https://zenn.dev/cybozu_frontend/articles/intl-advent-calendar-24-recap",
+          "pubDate": "Mon, 30 Dec 2024 10:43:54 GMT",
+          "enclosure": "",
+          "dc:creator": "Saji"
+        },
+        {
+          "title": "Webの書式付き貼り付けチュートリアル！",
+          "description": "みなさんこんにちは、最近リッチエディターのことがとても気になっている@iricoです。\n突然ですが何かをコピーしてリッチエディターに貼り付ける際に、コピー元の書式がいい感じに反映されることってありませんか？\n今回はその機能（以降書式付き貼り付けと呼びます）について簡単に説明していこうと思います。\n※この記事はChorme,MacOSで検証しています。他の環境では違った結果になる可能性があります。\n\n 書式が維持されるのはなぜ？\nまずは、スタイルを維持している基本的な仕組みについて解説していきます。\nクリップボードは基本的に複数のデータ形式を同時に保存しています。\n\n前回の記事でOS側のク...",
+          "link": "https://zenn.dev/cybozu_frontend/articles/46a7223f3b48f1",
+          "guid": "https://zenn.dev/cybozu_frontend/articles/46a7223f3b48f1",
+          "pubDate": "Sat, 21 Dec 2024 09:19:45 GMT",
+          "enclosure": "",
+          "dc:creator": "irico"
+        },
+        {
+          "title": "Baseline2024のふりかえりなど: Cybozu Frontend Weekly (2024-12-17号)",
+          "description": "こんにちは！サイボウズ株式会社フロントエンドエキスパートチームの @nus3_ です。\n\n はじめに\nサイボウズでは毎週火曜日に Frontend Weekly という「1 週間の間にあったフロントエンドニュースを共有する会」を社内で開催しています。\n今回は、2024 年 12 月 17 日 の Frontend Weekly で取り上げた記事や話題を紹介します。\n\n コピペってなんだろう？Clipboard 編\nhttps://zenn.dev/irico/articles/d2782f5ad615f0\n\n弊社フロントエンドエンジニアのiricoの記事\nOS ごとのクリップボードの大ま...",
+          "link": "https://zenn.dev/cybozu_frontend/articles/frontend_weekly_20241217",
+          "guid": "https://zenn.dev/cybozu_frontend/articles/frontend_weekly_20241217",
+          "pubDate": "Wed, 18 Dec 2024 00:17:09 GMT",
+          "enclosure": "",
+          "dc:creator": "nus3"
+        },
+        {
+          "title": "コピペってなんだろう？Clipboard編",
+          "description": "最近は専らwebのリッチテキストエディタの開発をしている@iricoです。\nそんな折にあることに気づいてしまいました。\n「コピペって奥が深い…！」\nということで、コピペ、つまりcopy and pasteについて詳しく知ろうというのが今記事の目的です。\nブラウザへのcopy and pasteは大まかな流れは以下です。\n\n①Excelなどの各アプリケーションデータや画像データをCtrl+Cでコピーし、\n②Ctrl+Vでブラウザにペーストし、\n③そのデータをアプリケーション側で取り扱う\nこれら全てを扱うと膨大になってしまうため、今記事ではOSのClipboardを中心に①について解説してい...",
+          "link": "https://zenn.dev/cybozu_frontend/articles/d2782f5ad615f0",
+          "guid": "https://zenn.dev/cybozu_frontend/articles/d2782f5ad615f0",
+          "pubDate": "Tue, 17 Dec 2024 00:32:31 GMT",
+          "enclosure": "",
+          "dc:creator": "irico"
+        },
+        {
+          "title": "テストの sharding を効率化する Tenbin というツールを作った",
+          "description": "!\nこの記事は ソフトウェアテスト Advent Calendar 2024 の 15 日目の記事になります。\n\n過去のテストの実行時間を利用してテストの sharding を効率化する Tenbin というツールを作りました。\nhttps://github.com/nissy-dev/tenbin\nこの記事では Tenbin が解決する課題と内部実装の詳細について解説します。ツールの使い方などは、リポジトリの README をぜひ読んでもらえればと思います。\n\n Tenbin が解決する課題\nテストの実行時間を削減するために、CI などではテストを sharding (分割) して実行...",
+          "link": "https://zenn.dev/cybozu_frontend/articles/create-tenbin",
+          "guid": "https://zenn.dev/cybozu_frontend/articles/create-tenbin",
+          "pubDate": "Sun, 15 Dec 2024 02:05:05 GMT",
+          "enclosure": "",
+          "dc:creator": "nissy-dev"
+        },
+        {
+          "title": "React v19リリースなど(2024-12-10号)",
+          "description": "こんにちは！サイボウズ株式会社フロントエンドエンジニアのdaiki（@k1tikurisu）です。\n\n はじめに\nサイボウズ社内では毎週火曜日にFrontend Weeklyと題し「一週間の間にあったフロントエンドニュースを共有する会」を開催しています。\n今回は、2024/12/10のFrontend Weeklyで取り上げた記事や話題を紹介します。\n\n 取り上げた記事・話題\n\n がんばれ！くろーむ\nhttps://x.com/takaswy1981/status/1862029920349966683\nGoogle Chromeロゴのアニメプロジェクトです。\n\n WebDriver B...",
+          "link": "https://zenn.dev/cybozu_frontend/articles/frontend_weekly_20241210",
+          "guid": "https://zenn.dev/cybozu_frontend/articles/frontend_weekly_20241210",
+          "pubDate": "Fri, 13 Dec 2024 10:52:37 GMT",
+          "enclosure": "",
+          "dc:creator": "daiki / きちくりす"
+        },
+        {
+          "title": "State of HTML 2024など: Cybozu Frontend Weekly (2024-12-03号)",
+          "description": "こんにちは！サイボウズ株式会社フロントエンドエンジニアのおぐえもん（@oguemon_com）です。\n\n はじめに\nサイボウズでは毎週火曜日にFrontend Weeklyという「一週間にあったフロントエンドニュースを共有する会」を社内で開催しています。\n今回は、2024年12月3日のFrontend Weeklyで取り上げた記事や話題を紹介します。\n\n 取り上げた記事・話題\n\n Release Notes for Safari Technology Preview 208\nhttps://webkit.org/blog/16285/release-notes-for-safari-te...",
+          "link": "https://zenn.dev/cybozu_frontend/articles/frontend_weekly_20241203",
+          "guid": "https://zenn.dev/cybozu_frontend/articles/frontend_weekly_20241203",
+          "pubDate": "Fri, 06 Dec 2024 01:16:30 GMT",
+          "enclosure": "",
+          "dc:creator": "おぐえもん"
+        },
+        {
+          "title": "Tailwind CSS v4.0 Beta のリリースなど: Cybozu Frontend Weekly (2024-11-26号)",
+          "description": "こんにちは！ サイボウズ株式会社 フロントエンドエンジニア（内定者バイト）の mehm8128 (@mehm8128) です。\n\n はじめに\nサイボウズ社内では毎週火曜日に Frontend Weekly と題し「一週間の間にあったフロントエンドニュースを共有する会」を開催しています。\n今回は、2024/11/26 の Frontend Weekly で取り上げた記事や話題を紹介します。\n\n 取り上げた記事・話題\n\n Using React Server Components in Expo Router apps\nhttps://docs.expo.dev/guides/server-...",
+          "link": "https://zenn.dev/cybozu_frontend/articles/frontend_weekly_20241126",
+          "guid": "https://zenn.dev/cybozu_frontend/articles/frontend_weekly_20241126",
+          "pubDate": "Thu, 28 Nov 2024 05:42:31 GMT",
+          "enclosure": "",
+          "dc:creator": "mehm8128"
+        },
+        {
+          "title": "State of CSS 2024 公開など : Cybozu Frontend Weekly (2024-11-19号)",
+          "description": "こんにちは！サイボウズ株式会社 フロントエンドエキスパートチームの @mugi_uno です。\n\n はじめに\nサイボウズ社内では毎週火曜日に Frontend Weekly と題し「一週間の間にあったフロントエンドニュースを共有する会」を開催しています。\n今回は、2024 年 11 月 19 日 の Frontend Weekly で取り上げた記事や話題を紹介します。\n\n 取り上げた記事・話題\n\n Deno Deploy で Next.js がデプロイできるように\nhttps://x.com/deno_land/status/1849469080257900704?s=12&amp;t=...",
+          "link": "https://zenn.dev/cybozu_frontend/articles/frontend_weekly_20241119",
+          "guid": "https://zenn.dev/cybozu_frontend/articles/frontend_weekly_20241119",
+          "pubDate": "Wed, 20 Nov 2024 04:30:54 GMT",
+          "enclosure": "",
+          "dc:creator": "mugi"
+        }
+      ]
+    }
+  }
+}

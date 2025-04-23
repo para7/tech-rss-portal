@@ -1,16 +1,22 @@
-import Parser from 'rss-parser';
 import type { PageServerLoad } from './$types';
 import { FetchFeeds } from '$lib/FetchFeeds';
 import { FEED_LENGTH } from '$lib/feedTargets';
+import { normalizeFeedItems, type Feed } from '$lib/schema';
 
 /**
  * パースされたRSSフィードを追加のメタデータを含む簡略化された形式に変換します。
  */
-const convertFeed = (feed: Parser.Output<unknown>) => {
-	return feed.items.slice(0, FEED_LENGTH).map((x) => ({
+const convertFeed = (feed: Feed) => {
+	// return feed.items.slice(0, FEED_LENGTH).map((x) => ({
+	const normalized = normalizeFeedItems(feed);
+
+	return normalized.slice(0, FEED_LENGTH).map((x) => ({
 		...x,
-		timestamp: new Date(x.isoDate ?? x.pubDate ?? 0),
-		blogTitle: feed.title
+		// timestamp: new Date(x.isoDate ?? x.pubDate ?? 0),
+		// blogTitle: feed.title
+
+		timestamp: new Date(x.pubDate ?? 0),
+		blogTitle: 'empty'
 	}));
 };
 

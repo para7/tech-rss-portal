@@ -1,0 +1,34 @@
+{
+  "?xml": "",
+  "rss": {
+    "channel": {
+      "title": "azukiazusa のテックブログ2",
+      "link": "https://azukiazusa.dev",
+      "description": "Web フロントエンド要素多めの技術ブログです。週に1度更新されます。",
+      "lastBuildDate": "Tue, 22 Apr 2025 21:16:30 GMT",
+      "image": {
+        "url": "https://azukiazusa.dev/favicon.png",
+        "title": "azukiazusa のテックブログ2",
+        "link": "https://azukiazusa.dev"
+      },
+      "atom:link": "",
+      "language": "ja",
+      "item": [
+        {
+          "title": "Ink を使って CLI アプリを React で書く",
+          "link": "https://azukiazusa.dev/blog/ink-cli-app",
+          "guid": "https://azukiazusa.dev/blog/ink-cli-app",
+          "description": "Ink は CLI アプリを React で書くためのライブラリです。Flexbox レイアウトエンジンである Yoga を使用しているため、Web アプリケーションと同じような CSS を使って UI を構築できることが特徴です。Codex や Claude Code といったコーディングエージェントの CLI アプリが Ink で書かれています。",
+          "pubDate": "Sun, 20 Apr 2025 00:45:00 GMT"
+        },
+        {
+          "title": "MCP サーバーの Streamable HTTP transport を試してみる",
+          "link": "https://azukiazusa.dev/blog/mcp-server-streamable-http-transport",
+          "guid": "https://azukiazusa.dev/blog/mcp-server-streamable-http-transport",
+          "description": "MCP では stdio と Streamable HTTP の 2 つの transport が定義されています。TypeScript SDK では v1.10.0 から Streamable HTTP transport がリリースされました。この記事では MCP サーバーを構築し、Streamable HTTP transport を試してみます。",
+          "pubDate": "Sat, 19 Apr 2025 00:29:00 GMT"
+        }
+      ]
+    }
+  }
+}

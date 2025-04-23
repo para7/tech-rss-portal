@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Realtime JSer.info</title>
+    <description>リアルタイム版 JSer.info</description>
+    <link>https://realtime.jser.info/</link>
+    <atom:link href="https://realtime.jser.info/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 24 Apr 2025 00:42:07 +0900</pubDate>
+    <lastBuildDate>Thu, 24 Apr 2025 00:42:07 +0900</lastBuildDate>
+    <generator>Jekyll v3.10.0</generator>
+    
+      
+      
+      <item>
+        <title>Node.js — Node v22.15.0 (LTS)</title>
+        <description>&lt;a href=&quot;https://nodejs.org/en/blog/release/v22.15.0&quot;&gt;https://nodejs.org/en/blog/release/v22.15.0&lt;/a&gt;&lt;br /&gt; &lt;p&gt;Node.js v22.15.0リリース。
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;assert.partialDeepStrictEqual()&lt;/code&gt;の追加、&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt; module.registerHooks()&lt;/code&gt;の追加、&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;util.diff()&lt;/code&gt;の追加、zstdのサポートなど&lt;/p&gt;
+ </description>
+        <pubDate>Thu, 24 Apr 2025 00:40:24 +0900</pubDate>
+        <link>https://realtime.jser.info/2025/04/24/node-js-node-v22-15-0-lts/</link>
+        <guid isPermaLink="true">https://realtime.jser.info/2025/04/24/node-js-node-v22-15-0-lts/</guid>
+        
+        <category>nodejs</category>
+        
+        <category>ReleaseNote</category>
+        
+        
+        <source url="https://nodejs.org/en/blog/release/v22.15.0">Node.js — Node v22.15.0 (LTS)</source>
+      </item>
+    
+      
+      
+      <item>
+        <title>Release @fastify/react@1.0.0 · fastify/fastify-vite</title>
+        <description>&lt;a href=&quot;https://github.com/fastify/fastify-vite/releases/tag/react-v1.0.0&quot;&gt;https://github.com/fastify/fastify-vite/releases/tag/react-v1.0.0&lt;/a&gt;&lt;br /&gt; &lt;p&gt;@fastify/react 1.0.0リリース。&lt;/p&gt;
+
+ </description>
+        <pubDate>Thu, 24 Apr 2025 00:36:35 +0900</pubDate>
+        <link>https://realtime.jser.info/2025/04/24/release-fastify-react-1-0-0-fastify-fastify-vite/</link>
+        <guid isPermaLink="true">https://realtime.jser.info/2025/04/24/release-fastify-react-1-0-0-fastify-fastify-vite/</guid>
+        
+        <category>nodejs</category>
+        
+        <category>React</category>
+        
+        <category>ReleaseNote</category>
+        
+        
+        <source url="https://github.com/fastify/fastify-vite/releases/tag/react-v1.0.0">Release @fastify/react@1.0.0 · fastify/fastify-vite</source>
+      </item>
+    
+      
+      
+      <item>
+        <title>slevithan/oniguruma-to-es: Convert patterns from Oniguruma (the regex flavor used by Ruby, TextMate grammars, etc.) to native JavaScript RegExp</title>
+        <description>&lt;a href=&quot;https://github.com/slevithan/oniguruma-to-es&quot;&gt;https://github.com/slevithan/oniguruma-to-es&lt;/a&gt;&lt;br /&gt; &lt;p&gt;Onigurumaの正規表現をJavaScriptの正規表現に変換するライブラリ&lt;/p&gt;
+ </description>
+        <pubDate>Sun, 20 Apr 2025 12:51:25 +0900</pubDate>
+        <link>https://realtime.jser.info/2025/04/20/slevithan-oniguruma-to-es-convert-patterns-from-oniguruma-the-regex-flavor-used-by-ruby-textmate-grammars-etc-to-native-javascript-regexp/</link>
+        <guid isPermaLink="true">https://realtime.jser.info/2025/04/20/slevithan-oniguruma-to-es-convert-patterns-from-oniguruma-the-regex-flavor-used-by-ruby-textmate-grammars-etc-to-native-javascript-regexp/</guid>
+        
+        <category>JavaScript</category>
+        
+        <category>library</category>
+        
+        <category>RegExp</category>
+        
+        
+        <source url="https://github.com/slevithan/oniguruma-to-es">slevithan/oniguruma-to-es: Convert patterns from Oniguruma (the regex flavor used by Ruby, TextMate grammars, etc.) to native JavaScript RegExp</source>
+      </item>
+    
+      
+      
+      <item>
+        <title>ECMAScript proposal updates @ 2025-04 | ECMAScript Daily</title>
+        <description>&lt;a href=&quot;https://ecmascript-daily.github.io/ecmascript/2025/04/19/ecmascript-proposal-update&quot;&gt;https://ecmascript-daily.github.io/ecmascript/2025/04/19/ecmascript-proposal-update&lt;/a&gt;&lt;br /&gt; &lt;p&gt;2025年4月のTC39ミーティングでのECMAScript ProposalのStatus変更のまとめ。
+Record &amp;amp; Tupleがwithdrawnとなった。&lt;/p&gt;
+ </description>
+        <pubDate>Sat, 19 Apr 2025 15:00:10 +0900</pubDate>
+        <link>https://realtime.jser.info/2025/04/19/ecmascript-proposal-updates-2025-04-ecmascript-daily/</link>
+        <guid isPermaLink="true">https://realtime.jser.info/2025/04/19/ecmascript-proposal-updates-2025-04-ecmascript-daily/</guid>
+        
+        <category>ECMAScript</category>
+        
+        <category>proposal</category>
+        
+        <category>news</category>
+        
+        
+        <source url="https://ecmascript-daily.github.io/ecmascript/2025/04/19/ecmascript-proposal-update">ECMAScript proposal updates @ 2025-04 | ECMAScript Daily</source>
+      </item>
+    
+      
+      
+      <item>
+        <title>Release v1.52.0 · microsoft/playwright</title>
+        <description>&lt;a href=&quot;https://github.com/microsoft/playwright/releases/tag/v1.52.0&quot;&gt;https://github.com/microsoft/playwright/releases/tag/v1.52.0&lt;/a&gt;&lt;br /&gt; &lt;p&gt;playwright v1.52.0リリース。
+破壊的な変更として&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;page.route()&lt;/code&gt;で&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;?&lt;/code&gt;はwildcardとして扱わないように変更、&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;route.continue()&lt;/code&gt;で&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Cookie&lt;/code&gt;ヘッダを上書きできないように変更。
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;expect(locator).toContainClass()&lt;/code&gt;の追加、Aria Snapshotの更新。
+プロジェクトごとに&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;workers&lt;/code&gt;を設定できるように、&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;failOnFlakyTests&lt;/code&gt;オプションの追加。&lt;/p&gt;
+
+ </description>
+        <pubDate>Fri, 18 Apr 2025 08:42:28 +0900</pubDate>
+        <link>https://realtime.jser.info/2025/04/18/release-v1-52-0-microsoft-playwright/</link>
+        <guid isPermaLink="true">https://realtime.jser.info/2025/04/18/release-v1-52-0-microsoft-playwright/</guid>
+        
+        <category>playwright</category>
+        
+        <category>ReleaseNote</category>
+        
+        
+        <source url="https://github.com/microsoft/playwright/releases/tag/v1.52.0">Release v1.52.0 · microsoft/playwright</source>
+      </item>
+    
+      
+      
+      <item>
+        <title>Astro 5.7 | Astro</title>
+        <description>&lt;a href=&quot;https://astro.build/blog/astro-570/&quot;&gt;https://astro.build/blog/astro-570/&lt;/a&gt;&lt;br /&gt; &lt;p&gt;Astro 5.7リリース。
+実験的なFont APIの追加、Sessions APIがStableに変更、SVGファイルをコンポーネントとして読み込めるように、&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;astro:config&lt;/code&gt;がStableへ変更など&lt;/p&gt;
+ </description>
+        <pubDate>Thu, 17 Apr 2025 23:33:41 +0900</pubDate>
+        <link>https://realtime.jser.info/2025/04/17/astro-5-7-astro/</link>
+        <guid isPermaLink="true">https://realtime.jser.info/2025/04/17/astro-5-7-astro/</guid>
+        
+        <category>astro</category>
+        
+        <category>ReleaseNote</category>
+        
+        
+        <source url="https://astro.build/blog/astro-570/">Astro 5.7 | Astro</source>
+      </item>
+    
+      
+      
+      <item>
+        <title>Default styles for h1 elements are changing | MDN Blog</title>
+        <description>&lt;a href=&quot;https://developer.mozilla.org/en-US/blog/h1-element-styles/&quot;&gt;https://developer.mozilla.org/en-US/blog/h1-element-styles/&lt;/a&gt;&lt;br /&gt; &lt;p&gt;セクションに基づいた暗黙的な&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;amp;lt;h1&amp;amp;gt;&lt;/code&gt;要素のデフォルトのスタイル(UAのスタイル)が変更される。
+Firefox 138、Chrome 136以降にこの変更が含まれる&lt;/p&gt;
+ </description>
+        <pubDate>Thu, 17 Apr 2025 23:24:33 +0900</pubDate>
+        <link>https://realtime.jser.info/2025/04/17/default-styles-for-h1-elements-are-changing-mdn-blog/</link>
+        <guid isPermaLink="true">https://realtime.jser.info/2025/04/17/default-styles-for-h1-elements-are-changing-mdn-blog/</guid>
+        
+        <category>HTML</category>
+        
+        <category>article</category>
+        
+        <category>browser</category>
+        
+        <category>css</category>
+        
+        
+        <source url="https://developer.mozilla.org/en-US/blog/h1-element-styles/">Default styles for h1 elements are changing | MDN Blog</source>
+      </item>
+    
+      
+      
+      <item>
+        <title>Advanced React in the Wild</title>
+        <description>&lt;a href=&quot;https://largeapps.dev/case-studies/advanced/&quot;&gt;https://largeapps.dev/case-studies/advanced/&lt;/a&gt;&lt;br /&gt; &lt;p&gt;Reactで書かれたアプリケーションのパフォーマンス改善の事例集&lt;/p&gt;
+ </description>
+        <pubDate>Thu, 17 Apr 2025 23:00:02 +0900</pubDate>
+        <link>https://realtime.jser.info/2025/04/17/advanced-react-in-the-wild/</link>
+        <guid isPermaLink="true">https://realtime.jser.info/2025/04/17/advanced-react-in-the-wild/</guid>
+        
+        <category>React</category>
+        
+        <category>performance</category>
+        
+        <category>article</category>
+        
+        
+        <source url="https://largeapps.dev/case-studies/advanced/">Advanced React in the Wild</source>
+      </item>
+    
+      
+      
+      <item>
+        <title>「型システムのしくみ」発売のお知らせ - まめめも</title>
+        <description>&lt;a href=&quot;https://mametter.hatenablog.com/entry/2025/04/10/063009&quot;&gt;https://mametter.hatenablog.com/entry/2025/04/10/063009&lt;/a&gt;&lt;br /&gt; &lt;p&gt;TypeScriptのサブセットの型チェッカを実装していく型システムについての書籍&lt;/p&gt;
+ </description>
+        <pubDate>Wed, 16 Apr 2025 00:05:06 +0900</pubDate>
+        <link>https://realtime.jser.info/2025/04/16/https-mametter-hatenablog-com-entry-2025-04-10-063009/</link>
+        <guid isPermaLink="true">https://realtime.jser.info/2025/04/16/https-mametter-hatenablog-com-entry-2025-04-10-063009/</guid>
+        
+        <category>TypeScript</category>
+        
+        <category>book</category>
+        
+        <category>program</category>
+        
+        
+        <source url="https://mametter.hatenablog.com/entry/2025/04/10/063009">「型システムのしくみ」発売のお知らせ - まめめも</source>
+      </item>
+    
+      
+      
+      <item>
+        <title>Ray-D-Song/lexe: Package your Node.js application into a single executable file, but only 10MB.:fire:</title>
+        <description>&lt;a href=&quot;https://github.com/Ray-D-Song/lexe?tab=readme-ov-file&quot;&gt;https://github.com/Ray-D-Song/lexe?tab=readme-ov-file&lt;/a&gt;&lt;br /&gt; &lt;p&gt;LLRTをRuntimeとして使ったSingle Executable Binaryを作成するツール。
+Node.jsの一部に互換のあるAPIを提供し、バイナリサイズが小さいという特徴がある&lt;/p&gt;
+ </description>
+        <pubDate>Tue, 15 Apr 2025 23:57:48 +0900</pubDate>
+        <link>https://realtime.jser.info/2025/04/15/ray-d-song-lexe-package-your-node-js-application-into-a-single-executable-file-but-only-10mb/</link>
+        <guid isPermaLink="true">https://realtime.jser.info/2025/04/15/ray-d-song-lexe-package-your-node-js-application-into-a-single-executable-file-but-only-10mb/</guid>
+        
+        <category>JavaScript</category>
+        
+        <category>Tools</category>
+        
+        
+        <source url="https://github.com/Ray-D-Song/lexe?tab=readme-ov-file">Ray-D-Song/lexe: Package your Node.js application into a single executable file, but only 10MB.:fire:</source>
+      </item>
+    
+  </channel>
+</rss>

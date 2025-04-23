@@ -1,0 +1,66 @@
+{
+  "?xml": "",
+  "rss": {
+    "channel": {
+      "title": "サイボウズ フロントエンドのフィード",
+      "description": "ZennのPublication「サイボウズ フロントエンド」のRSSフィードです",
+      "link": "https://zenn.dev/p/cybozu_frontend",
+      "image": {
+        "url": "https://storage.googleapis.com/zenn-user-upload/avatar/ec90598e61.jpeg",
+        "title": "サイボウズ フロントエンドのフィード",
+        "link": "https://zenn.dev/p/cybozu_frontend"
+      },
+      "generator": "zenn.dev",
+      "lastBuildDate": "Wed, 23 Apr 2025 15:00:17 GMT",
+      "atom:link": "",
+      "language": "ja",
+      "item": [
+        {
+          "title": "Introducing Zod 4 beta など : Cybozu Frontend Weekly (2025-04-22号)",
+          "description": "こんにちは！サイボウズ株式会社 フロントエンドエキスパートチームの @mugi_uno です。\n\n はじめに\nサイボウズ社内では毎週火曜日に Frontend Weekly と題し「一週間の間にあったフロントエンドニュースを共有する会」を開催しています。\n今回は、2025 年 4 月 22 日の Frontend Weekly で取り上げた記事や話題を紹介します。\n\n 取り上げた記事・話題\n\n あらためて理解する ArrayBuffer - JavaScript でバイナリデータを扱う方法\nhttps://ics.media/entry/250408/\nJavaScript における A...",
+          "link": "https://zenn.dev/cybozu_frontend/articles/frontend_weekly_20250422",
+          "guid": "https://zenn.dev/cybozu_frontend/articles/frontend_weekly_20250422",
+          "pubDate": "Wed, 23 Apr 2025 00:33:07 GMT",
+          "enclosure": "",
+          "dc:creator": "mugi"
+        },
+        {
+          "title": "フロントエンドカンファレンス東京の開催決定など : Cybozu Frontend Weekly (2025-04-15号)",
+          "description": "こんにちは！サイボウズ株式会社 フロントエンドエキスパートチームの @mugi_uno です。\n\n はじめに\nサイボウズ社内では毎週火曜日に Frontend Weekly と題し「一週間の間にあったフロントエンドニュースを共有する会」を開催しています。\n今回は、2025 年 4 月 15 日の Frontend Weekly で取り上げた記事や話題を紹介します。\n\n 取り上げた記事・話題\n\n Intent to ship: Temporal\nhttps://groups.google.com/a/mozilla.org/g/dev-platform/c/RtsRo93ygO4/m/2Y...",
+          "link": "https://zenn.dev/cybozu_frontend/articles/frontend_weekly_20250415",
+          "guid": "https://zenn.dev/cybozu_frontend/articles/frontend_weekly_20250415",
+          "pubDate": "Wed, 16 Apr 2025 04:54:44 GMT",
+          "enclosure": "",
+          "dc:creator": "mugi"
+        },
+        {
+          "title": "Reactの2025年トレンド予測など: Cybozu Frontend Weekly (2025-04-01号)",
+          "description": "こんにちは! サイボウズ株式会社フロントエンドエンジニアの Saji (@sajikix) です。\n\n Trapping misbehaving bots in an AI Labyrinth\nhttps://blog.cloudflare.com/ai-labyrinth/\nCloudflare が、不適切な AI クローラーやボットを混乱させ、リソースを浪費させる新しい対策手法「AI Labyrinth」を発表しました。\nこの機能は、不適切なボット活動を検出すると、AI が生成したリンクページの集合を自動的にデプロイします。カスタムルールを作成する必要はなく、無料プランを含む全ての顧...",
+          "link": "https://zenn.dev/cybozu_frontend/articles/few-2025-04-01",
+          "guid": "https://zenn.dev/cybozu_frontend/articles/few-2025-04-01",
+          "pubDate": "Fri, 04 Apr 2025 07:39:04 GMT",
+          "enclosure": "",
+          "dc:creator": "Saji"
+        },
+        {
+          "title": "Form Control Styling Level 1 など: Cybozu Frontend Weekly (2025-03-25号)",
+          "description": "こんにちは！サイボウズ株式会社フロントエンドエンジニアのsaku (@sakupi01)です。\n\n はじめに\nサイボウズ社内では毎週火曜日にFrontend Weeklyと題し「一週間の間にあったフロントエンドニュースを共有する会」を開催しています。\n今回は、2025/03/25のFrontend Weeklyで取り上げた記事や話題を紹介します。\n\n 取り上げた記事・話題\n\n CSS Form Control Styling Level 1 First Public Working Draft\nhttps://www.w3.org/TR/css-forms-1/\nhttps://list...",
+          "link": "https://zenn.dev/cybozu_frontend/articles/frontend_weekly_20250328",
+          "guid": "https://zenn.dev/cybozu_frontend/articles/frontend_weekly_20250328",
+          "pubDate": "Fri, 28 Mar 2025 03:00:01 GMT",
+          "enclosure": "",
+          "dc:creator": "saku"
+        },
+        {
+          "title": "「CLINEに全部賭けろ」など(2025-03-11号)",
+          "description": "こんにちは！サイボウズ株式会社フロントエンドエンジニアのdaiki（@k1tikurisu）です。\n\n はじめに\nサイボウズ社内では毎週火曜日にFrontend Weeklyと題し「一週間の間にあったフロントエンドニュースを共有する会」を開催しています。\n今回は、2025/03/11のFrontend Weeklyで取り上げた記事や話題を紹介します。\n\n 取り上げた記事・話題\n\n Prisma 6.4.0\nhttps://github.com/prisma/prisma/releases/tag/6.4.0\nPrisma 6.4.0がリリースされました。主な更新内容は次の通りです。\n\nT...",
+          "link": "https://zenn.dev/cybozu_frontend/articles/frontend_weekly_20250311",
+          "guid": "https://zenn.dev/cybozu_frontend/articles/frontend_weekly_20250311",
+          "pubDate": "Fri, 14 Mar 2025 08:31:06 GMT",
+          "enclosure": "",
+          "dc:creator": "daiki / きちくりす"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "?xml": "",
+  "feed": {
+    "title": "Publickey",
+    "link": [
+      "",
+      ""
+    ],
+    "id": "tag:www.publickey1.jp,2011-12-29://2",
+    "updated": "2025-04-22T14:23:54Z",
+    "generator": "Movable Type Pro",
+    "entry": [
+      {
+        "title": "AWS、通常のAmazon S3より最大10倍高速な「Amazon S3 Express One Zone」の価格を最大で85％引き下げ",
+        "link": "",
+        "id": "tag:www.publickey1.jp,2025://2.8181",
+        "published": "2025-04-22T15:08:23Z",
+        "updated": "2025-04-22T14:23:54Z",
+        "summary": "Amazon Web Servicesは、通常のAmazon S3よりも最大10倍高速なオブジェクトストレージ「Amazon S3 Express One Zone」の利用価格を、最大で85％引き下げると発表しました。 「Amazon S3...",
+        "author": {
+          "name": "jniino"
+        },
+        "category": [
+          "",
+          "",
+          ""
+        ],
+        "content": "Amazon Web Servicesは、通常のAmazon S3よりも最大10倍高速なオブジェクトストレージ「Amazon S3 Express One Zone」の利用価格を、最大で85％引き下げると発表しました。 「Amazon S3 Express One Zone」は、単一のアベイラビリティゾーン内にデータを保存するオブジェクトストレージサービスとして、1桁ミリ秒のレイテンシで毎秒数十万のリクエストを処理可能な高速性が特徴です。特に小さなオブジェクトはAmazon ……"
+      },
+      {
+        "title": "システム開発企業が利用中のAIツール、ChatGPTが最多、GitHub Copilotが続く。課題はユーザーの要件定義が決まらないこと。インフラジスティックスジャパン",
+        "link": "",
+        "id": "tag:www.publickey1.jp,2025://2.8180",
+        "published": "2025-04-22T14:00:02Z",
+        "updated": "2025-04-21T14:04:21Z",
+        "summary": "アプリケーション開発支援ツールを開発販売するインフラジスティックス・ジャパンは、本国内の情報システム開発会社を対象にした「開発支援AIツール」の利用ランキングと動向を発表しました。 調査時期は2025年3月、有効回答件数は200。 発表によ...",
+        "author": {
+          "name": "jniino"
+        },
+        "category": [
+          "",
+          ""
+        ],
+        "content": "アプリケーション開発支援ツールを開発販売するインフラジスティックス・ジャパンは、本国内の情報システム開発会社を対象にした「開発支援AIツール」の利用ランキングと動向を発表しました。 調査時期は2025年3月、有効回答件数は200。 発表によると、利用中の開発支援AIツールのランキングは1位がChatGPT、2位がGitHub Copilot、3位がMicrosoft Copilotとなりました。 このランキングには、汎用的なツール（ChatGPTやMicrosoft Copi……"
+      }
+    ]
+  }
+}

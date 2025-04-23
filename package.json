@@ -10,14 +10,15 @@
 		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch",
 		"format": "prettier --write .",
 		"lint": "prettier --check . && eslint .",
-		"test:unit": "vitest",
-		"test": "npm run test:unit -- --run"
+		"test": "vitest --ui"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-cloudflare-workers": "^2.9.0",
 		"@sveltejs/kit": "^2.20.7",
 		"@sveltejs/vite-plugin-svelte": "^5.0.3",
 		"@types/eslint": "^9.6.1",
+		"@types/node": "^22.14.1",
+		"@vitest/ui": "3.1.2",
 		"eslint": "^9.25.1",
 		"eslint-config-prettier": "^10.1.2",
 		"eslint-plugin-svelte": "^3.5.1",
@@ -33,6 +34,7 @@
 		"wrangler": "^4.13.0"
 	},
 	"dependencies": {
-		"rss-parser": "^3.13.0"
+		"fast-xml-parser": "^5.2.1",
+		"zod": "^3.24.3"
 	}
 }

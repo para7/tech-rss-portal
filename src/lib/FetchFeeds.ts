@@ -1,12 +1,11 @@
 import { dev } from '$app/environment';
 import { feedTargets } from '$lib/feedTargets';
-import Parser from 'rss-parser';
+import { FeedSchema, type Feed } from './schema';
+import { xmlToJson } from './xml-to-json';
 
 type CacheType = {
 	timestamp: Date;
-	feeds: Parser.Output<{
-		[key: string]: unknown;
-	}>[];
+	feeds: Feed[];
 };
 
 let feedCache: CacheType;
@@ -19,14 +18,40 @@ let feedCache: CacheType;
  * @returns 全フィードと、取得時間
  */
 export const FetchFeeds = async (): Promise<CacheType> => {
-	if (feedCache) {
+	if (feedCache && !dev) {
 		return feedCache;
 	}
 
-	const parser = new Parser({});
+	// const url = feedTargets[Math.floor(Math.random() * feedTargets.length)];
+
+	// const testFeed = await (await fetch(url)).text();
+
+	// console.log(xmlToJson(testFeed));
+	// // console.log(xmlToJson(testFeed.entry[0]));
+
+	// console.log(url);
+	// const parsed = FeedSchema.parse(xmlToJson(testFeed));
+
+	// console.log(parsed);
+
+	// // if ('rss' in parsed) {
+	// // 	console.log(parsed.rss.channel);
+	// // } else {
+	// // 	console.log(parsed.channel);
+	// // }
+
+	// return {
+	// 	feeds: [],
+	// 	timestamp: new Date()
+	// };
 
 	// まとめてフェッチ
-	const feeds = await Promise.all(feedTargets.map((url) => parser.parseURL(url)));
+	const feeds = await Promise.all(
+		feedTargets.map(async (url) => {
+			const text = await (await fetch(url)).text();
+			return FeedSchema.parse(xmlToJson(text));
+		})
+	);
 
 	const data = { feeds, timestamp: new Date() };
 
