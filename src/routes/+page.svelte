@@ -3,7 +3,7 @@
 </script>
 
 <h1>技術ブログ ウォッチ フィード集</h1>
-<div>更新日時: {new Date(data.timestamp).toLocaleString()}</div>
+<div>更新日時: {new Date(data.timestamp).toLocaleString('ja-JP', { timeZone: 'Asia/Tokyo' })}</div>
 <ul>
 	{#each data.items as item}
 		<div class="panel">
