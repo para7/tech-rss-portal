@@ -84,7 +84,7 @@ export type NormalizedFeedItem = z.infer<typeof NormalizedFeedItemSchema>;
 export type Feed = z.infer<typeof FeedSchema>;
 
 // フィードデータを標準化する関数
-export function normalizeFeedItems(feed: Feed): NormalizedFeedItem[] {
+export function normalizeFeedItems(feed: Feed): (NormalizedFeedItem & { blogTitle: string })[] {
 	if ('rss' in feed) {
 		// RSS形式の場合
 		return feed.rss.channel.item.map((item) => ({
@@ -92,8 +92,13 @@ export function normalizeFeedItems(feed: Feed): NormalizedFeedItem[] {
 			description: item.description,
 			link: item.link,
 			pubDate: item.pubDate,
-			categories: item.category,
-			source: item.source
+			categories: item.category
+				? Array.isArray(item.category)
+					? item.category
+					: [item.category]
+				: undefined,
+			source: item.source,
+			blogTitle: feed.rss.channel.title
 		}));
 	} else if ('feed' in feed) {
 		// Atom形式の場合
@@ -107,7 +112,8 @@ export function normalizeFeedItems(feed: Feed): NormalizedFeedItem[] {
 					? entry.category
 					: [entry.category]
 				: undefined,
-			source: entry.author?.name
+			source: entry.author?.name,
+			blogTitle: feed.feed.title
 		}));
 	}
 

@@ -3,7 +3,7 @@
 </script>
 
 <h1>技術ブログ ウォッチ フィード集</h1>
-<div>更新日時: {data.timestamp}</div>
+<div>更新日時: {new Date(data.timestamp).toLocaleString()}</div>
 <ul>
 	{#each data.items as item}
 		<div class="panel">
@@ -14,7 +14,7 @@
 			<a href={item.link} class="link" target="_blank">
 				{item.title}
 			</a>
-			<p class="snippet">{item.contentSnippet}</p>
+			<p class="snippet">{item.description}</p>
 		</div>
 	{/each}
 </ul>

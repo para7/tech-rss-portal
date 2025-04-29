@@ -22,33 +22,11 @@ export const FetchFeeds = async (): Promise<CacheType> => {
 		return feedCache;
 	}
 
-	// const url = feedTargets[Math.floor(Math.random() * feedTargets.length)];
-
-	// const testFeed = await (await fetch(url)).text();
-
-	// console.log(xmlToJson(testFeed));
-	// // console.log(xmlToJson(testFeed.entry[0]));
-
-	// console.log(url);
-	// const parsed = FeedSchema.parse(xmlToJson(testFeed));
-
-	// console.log(parsed);
-
-	// // if ('rss' in parsed) {
-	// // 	console.log(parsed.rss.channel);
-	// // } else {
-	// // 	console.log(parsed.channel);
-	// // }
-
-	// return {
-	// 	feeds: [],
-	// 	timestamp: new Date()
-	// };
-
 	// まとめてフェッチ
 	const feeds = await Promise.all(
 		feedTargets.map(async (url) => {
-			const text = await (await fetch(url)).text();
+			const response = await fetch(url);
+			const text = await response.text();
 			return FeedSchema.parse(xmlToJson(text));
 		})
 	);
